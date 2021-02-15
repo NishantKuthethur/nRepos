@@ -1,1 +1,2 @@
 Testing rm
+checking diff between snapshots
